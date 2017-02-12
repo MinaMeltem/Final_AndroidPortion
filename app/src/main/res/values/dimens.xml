@@ -3,7 +3,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="EditTexts_bottom_margins">6dp</dimen>
-    <dimen name="EditTexts_paddings">5dp</dimen>
+    <dimen name="EditTexts_paddings">10dp</dimen>
     <dimen name="LargeImageView">150dp</dimen>
     <dimen name="LargeImage_Margin_top">10dp</dimen>
     <dimen name="LargeImage_Margin_bottom">200dp</dimen>
