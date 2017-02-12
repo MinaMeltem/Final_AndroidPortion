@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalExamPracticalPortion</string>
+    <string name="edit_text_username">UserName</string>
+    <string name="edit_text_passwrod">Password</string>
+    <string name="submit_button">Submit</string>
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="Button3">Button3</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+</resources>

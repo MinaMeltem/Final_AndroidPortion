@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_first"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/Button1" />
+        <item
+            android:id="@+id/nav_second"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="@string/Button2" />
+        <item
+            android:id="@+id/nav_third"
+            android:icon="@drawable/ic_track_changes_black_24dp"
+            android:title="@string/Button3" />
+        <item
+            android:id="@+id/nav_fourth"
+            android:icon="@drawable/ic_close_black_24dp"
+            android:title="@string/Logout" />
+    </group>
+
+
+
+</menu>
